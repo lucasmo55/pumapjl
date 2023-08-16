@@ -1,0 +1,13 @@
+body{
+    background-color: darkslategrey;
+}
+h1{
+    font-size: large;
+    color: yellow;
+    text-align: center;
+}
+img{
+    width: 300px;
+height: 300px;
+margin-left: 800px;
+}
